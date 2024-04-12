@@ -6,10 +6,14 @@ Sign Language Detector
 ### PREPROCESSING
 |                |                                                                                                     |
 |----------------|-----------------------------------------------------------------------------------------------------|
-| RGB Dataset    | ![RGB Dataset](https://github.com/siyagampawar/Sign-Language-Detector/blob/assets/115725393/3bed6f21-69e7-4d14-b217-f193cc9e99d9) |
-| Grayscale Imaging | ![Grayscale Imaging](https://github.com/siyagampawar/Sign-Language-Detector/blob/assets/115725393/d5d5625e-7c87-4683-8746-8ded011ab896) |
-| Background Removal | ![Background Removal](https://github.com/siyagampawar/Sign-Language-Detector/blob/assets/115725393/6db68539-e9d7-4f7c-87f7-d61683e951d9) |
-| Edge Detection | ![Edge Detection](https://github.com/siyagampawar/Sign-Language-Detector/blob/assets/115725393/566d5c21-70ea-4b9d-b691-4c7dcbdccc4f) |
+| RGB Dataset    |![image](https://github.com/siyagampawar/Sign-Language-Detector/assets/115725393/d8cd9d77-c7a6-4080-9ad5-04341e0a90e2)
+ |
+| Grayscale Imaging |![image](https://github.com/siyagampawar/Sign-Language-Detector/assets/115725393/79f0fedb-d4dc-497d-8d55-167c39f2d550)
+|
+| Background Removal |![image](https://github.com/siyagampawar/Sign-Language-Detector/assets/115725393/148561c2-fc2e-417f-9f18-9e9e82de2959)
+|
+| Edge Detection | ![image](https://github.com/siyagampawar/Sign-Language-Detector/assets/115725393/898a5c55-6156-4e61-8338-28d3ce3d71f9)
+ |
 
 
 |     | RGB Dataset                          | Grayscale Imaging                   | Background Removal                  | Edge Detection                      |
