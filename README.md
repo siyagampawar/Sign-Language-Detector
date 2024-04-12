@@ -13,6 +13,11 @@ Sign Language Detector
 
 |EDGE DETECTION|![image](https://github.com/siyagampawar/Sign-Language-Detector/assets/115725393/566d5c21-70ea-4b9d-b691-4c7dcbdccc4f)|
 
+|     | RGB Dataset                          | Grayscale Imaging                   | Background Removal                  | Edge Detection                      |
+|-----|--------------------------------------|-------------------------------------|------------------------------------|-------------------------------------|
+|     | ![RGB Dataset](https://github.com/siyagampawar/Sign-Language-Detector/blob/assets/115725393/3bed6f21-69e7-4d14-b217-f193cc9e99d9) | ![Grayscale Imaging](https://github.com/siyagampawar/Sign-Language-Detector/blob/assets/115725393/d5d5625e-7c87-4683-8746-8ded011ab896) | ![Background Removal](https://github.com/siyagampawar/Sign-Language-Detector/blob/assets/115725393/6db68539-e9d7-4f7c-87f7-d61683e951d9) | ![Edge Detection](https://github.com/siyagampawar/Sign-Language-Detector/blob/assets/115725393/566d5c21-70ea-4b9d-b691-4c7dcbdccc4f) |
+
+
 ### MODELS
 
 1.CNN
